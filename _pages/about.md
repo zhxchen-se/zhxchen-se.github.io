@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I'm Zhixiang Chen (陈智翔), from Guangzhou. I'm currently a [software engineering](https://sse.sysu.edu.cn/) undergraduate at [Sun Yat-sen University](https://www.sysu.edu.cn/)<img src='images/SYSU_logo.jpeg'>. I'll continue my Ph.D at the same school under the supervision of [Prof. Zibin Zheng](https://www.zibinzheng.com/) in 2024. 
+Welcome to my homepage! I'm Zhixiang Chen (陈智翔), from Guangzhou. I'm currently a [software engineering](https://sse.sysu.edu.cn/) undergraduate at [Sun Yat-sen University](https://www.sysu.edu.cn/)<img src='images/SYSU_logo.jpeg' style="width: 6em;">. I'll continue my Ph.D at the same school under the supervision of [Prof. Zibin Zheng](https://www.zibinzheng.com/) in 2024. 
 
 **Email:** [chenzhx69@mail2.sysu.edu.cn](chenzhx69@mail2.sysu.edu.cn)
 
@@ -50,7 +50,7 @@ Welcome to my homepage! I'm Zhixiang Chen (陈智翔), from Guangzhou. I'm curre
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Bachelor, School of Software Engineering, Sun Yat-sen University, Zhuhai. 
-- *2024.09 - now*, Ph.D, School of Software Engineering, Sun Yat-sen University, Zhuhai. 
+- *2024.09 - ~*, Ph.D, School of Software Engineering, Sun Yat-sen University, Zhuhai. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
