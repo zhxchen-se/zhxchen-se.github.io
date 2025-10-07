@@ -30,7 +30,7 @@ Welcome to my homepage! I'm Zhixiang Chen (陈智翔), from Guangzhou. I receive
 
 # 📝 Publications 
 
-- [Expert Systems With Applications] (JCR Q1) [iJTyper: An Effective Type Inference Framework for Incomplete Java Codes by Integrating Constraint- and Statistics-based Methods](https://zhxchen-se.github.io/), **Zhixiang Chen**, Anji Li, Neng Zhang, Jianguo Chen, Yuan Huang, Zibin Zheng.
+- [Expert Systems With Applications] (JCR Q1) (In Press) [iJTyper: An Effective Type Inference Framework for Incomplete Java Codes by Integrating Constraint- and Statistics-based Methods](https://zhxchen-se.github.io/), **Zhixiang Chen**, Anji Li, Neng Zhang, Jianguo Chen, Yuan Huang, Zibin Zheng.
 - [FSE 2025] (CCF-A) [CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow](https://dl.acm.org/doi/abs/10.1145/3715724) (CCF-A), Anji Li, Neng Zhang, Ying Zou, **Zhixiang Chen**, Jian Wang, Zibin Zheng.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
