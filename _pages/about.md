@@ -31,7 +31,7 @@ Welcome to my homepage! I'm Zhixiang Chen (陈智翔). I received my bachelor's 
 # 📝 Publications 
 
 - [ASE 2026] (CCF-A) [IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation](https://doi.org/10.1145/3832783.3837550), **Zhixiang Chen**, Zhuangbin Chen, Ruoxi Jia, Zeqin Liao, Wei Li, Jinyang Liu, Zibin Zheng.
-- [Expert Systems With Applications] （中科院 1区） [iJTyper: An Effective Type Inference Framework for Incomplete Java Codes by Integrating Constraint- and Statistics-based Methods](https://www.sciencedirect.com/science/article/pii/S0957417425035870), **Zhixiang Chen**, Anji Li, Neng Zhang, Jianguo Chen, Yuan Huang, Zibin Zheng.
+- [Expert Systems With Applications] (中科院 1区) [iJTyper: An Effective Type Inference Framework for Incomplete Java Codes by Integrating Constraint- and Statistics-based Methods](https://www.sciencedirect.com/science/article/pii/S0957417425035870), **Zhixiang Chen**, Anji Li, Neng Zhang, Jianguo Chen, Yuan Huang, Zibin Zheng.
 - [FSE 2025] (CCF-A) [CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow](https://dl.acm.org/doi/abs/10.1145/3715724) (CCF-A), Anji Li, Neng Zhang, Ying Zou, **Zhixiang Chen**, Jian Wang, Zibin Zheng.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -65,4 +65,6 @@ Anji Li, Neng Zhang, Ying Zou, **Zhixiang Chen**, Jian Wang, Zibin Zheng -->
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=8HQzvhgelv3eBzXkAGmLvmGRDi-63JYDncT-XMY74J0'></script>
+<div style="text-align: center; margin-top: 2rem;">
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=650&t=n&d=8HQzvhgelv3eBzXkAGmLvmGRDi-63JYDncT-XMY74J0'></script>
+</div>
