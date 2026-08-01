@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage! I'm Zhixiang Chen (陈智翔). I received my bachelor's degree in [Software Engineering](https://sse.sysu.edu.cn/) from [Sun Yat-sen University](https://www.sysu.edu.cn/)<img src='images/SYSU_logo.gif' style="width: 6em;"> in 2024. I'm currently a Ph.D Student at the same school under the supervision of [Prof. Zibin Zheng](https://www.zibinzheng.com/) and [Prof. Zhuangbin Chen](https://zbchern.github.io/). 
 
-**Email:** chenzhx69 At mail2.sysu.edu.cn
+**Email:** chenzhx69@mail2.sysu.edu.cn
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
